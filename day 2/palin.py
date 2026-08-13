@@ -1,6 +1,5 @@
 class Solution(object):
     def isPalindrome(self, x):
-        # Negative numbers cannot be palindromes
         if x < 0:
             return False
 
