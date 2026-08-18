@@ -1,3 +1,4 @@
+# Running Sum of 1D Array noted
 class Solution(object):
     def runningSum(self, nums):
         total = 0
